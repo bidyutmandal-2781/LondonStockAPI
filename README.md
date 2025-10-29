@@ -102,7 +102,7 @@ tickerId : HDFCBANK
 
 9. Get stock stats by ticker range: POST /api/stocks/range
 Body:
-["OTEX","TECHM"]
+["HDFCBANK","TECHM"]
 
 
 
